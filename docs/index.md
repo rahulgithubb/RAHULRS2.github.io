@@ -1,37 +1,159 @@
-## Welcome to GitHub Pages
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>RAHUL RS Data analyst portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-You can use the [editor on GitHub](https://github.com/rahulgithubb/Rahulrs2.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+	<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+				<!-- Intro -->
+					<div id="intro">
+						<h1>RAHUL RS<br />
+						PORFOLIO</h1>
+						<p>Interested to work as a Data Analyst. I am skilled in SQL, TABLEAU, PYTHON <a href="https://www.linkedin.com/in/rahul-r-bab390227/">@rahulrs_linkedin</a> 
+				</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
 
-### Markdown
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">RAHUL RS PROJECTS</a>
+					</header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Projects</a></li>
+			
+						</ul>
+						<ul class="icons">
+							
+			
+							<li><a href="https://www.linkedin.com/in/rahul-r-bab390227/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://github.com/rahulgithubb" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
 
-```markdown
-Syntax highlighted code block
+				<!-- Main -->
+					<div id="main">
 
-# Header 1
-## Header 2
-### Header 3
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date"></span>
+									<h2><a href="https://github.com/rahulgithubb/SQL-Data-Cleaning/blob/main/SQLNashDatasetCleaning.sql">SQL Data Cleaning<br />
+									</a></h2>
+									<p>In this project we clean housing data in SQL Server.</p>
+								</header>
+								<a href="https://github.com/rahulgithubb/SQL-Data-Cleaning/blob/main/SQLNashDatasetCleaning.sql" class="image main"><img src="images/housing.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://github.com/rahulgithubb/SQL-Data-Cleaning/blob/main/SQLNashDatasetCleaning.sql" class="button large">View Project</a></li>
+								</ul>
+							</article>
 
-- Bulleted
-- List
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										
+										<h2><a href="https://github.com/rahulgithubb/Movie-Correlation-dataset/blob/main/movie%20corrrelation%20dataset%20.ipynb">Movie Correlation using Python<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/rahulgithubb/Movie-Correlation-dataset/blob/main/movie%20corrrelation%20dataset%20.ipynb" class="image fit"><img src="images/movies.jpg" alt="" /></a>
+									<p>In this project we look at what variables effect the gross revenue from movies.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/rahulgithubb/Movie-Correlation-dataset/blob/main/movie%20corrrelation%20dataset%20.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="https://public.tableau.com/app/profile/rahul.r.s/viz/Hr_Analytics_Dashboard/Dashboard?publish=yes">HR_Analytics_Dashboard<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/rahul.r.s/viz/Hr_Analytics_Dashboard/Dashboard?publish=yes" class="image fit"><img src="images/HR-Analytics.jpg" alt="" /></a>
+									<p>In this project, I have created a tableau dashboard for employee attrition for HR Analytics.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/rahul.r.s/viz/Hr_Analytics_Dashboard/Dashboard?publish=yes" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="https://public.tableau.com/app/profile/rahul.r.s/viz/TABLEAUDASHBOARD_16590236838510/Dashboard1?publish=yes">Tablueau Project 2<br />
+										</a></h2>
+									</header>
+									<a href="https://public.tableau.com/app/profile/rahul.r.s/viz/TABLEAUDASHBOARD_16590236838510/Dashboard1?publish=yes" class="image fit"><img src="images/tableau.jpg.crdownload" alt="" /></a>
+									<p>I have displayed one of my tableau projects which i created.</p>
+									<ul class="actions special">
+										<li><a href="https://public.tableau.com/app/profile/rahul.r.s/viz/TABLEAUDASHBOARD_16590236838510/Dashboard1?publish=yes" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<h2><a href="https://github.com/rahulgithubb/exploratory_data_analysis/blob/main/missing_data_cca.ipynb">Exploratory_data_analysis<br />
+										</a></h2>
+									</header>
+									<a href="https://github.com/rahulgithubb/exploratory_data_analysis/blob/main/missing_data_cca.ipynb" class="image fit"><img src="images/Exploratory-Data-Analysis.jpg" alt="" /></a>
+									<p>I have done complete case analysis on a dataset where missing values are less than 5%.</p>
+									<ul class="actions special">
+										<li><a href="https://github.com/rahulgithubb/exploratory_data_analysis/blob/main/missing_data_cca.ipynb" class="button">View Project</a></li>
+									</ul>
+								</article>
 
-1. Numbered
-2. List
+				<!-- Footer -->
+		
+						<section class="split contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>INDIA<br />
+								COIMBATORE, TN </p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">(637) 911-4410</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">rahulvz@yahoo.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+			
+									<li><a href="https://www.linkedin.com/in/rahul-r-bab390227/" class="icon brands alt fa-linkedin"><span class="label">Linkedin</span></a></li>
+									<li><a href="https://github.com/rahulgithubb" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
 
-**Bold** and _Italic_ and `Code` text
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
 
-[Link](url) and ![Image](src)
-```
+			</div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulgithubb/Rahulrs2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+</html>
